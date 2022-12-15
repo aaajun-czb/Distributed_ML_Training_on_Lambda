@@ -1,0 +1,14 @@
+{
+    "pattern_k": "5",
+    "batch_size": "2",
+    "epoches": "2",
+    "l_r": "0.005",
+    "agg_mod": "epoch",
+    "memory": "1024",
+    "train_net": "r-cnn",
+    "source_bucket": "source-bucket-scn1216",
+    "tmp_bucket": "tmp-bucket-scn1216",
+    "merged_bucket": "merged-bucket-scn1216",
+    "train_bucket": "train-bucket-scn1216",
+    "output_bucket": "output-bucket-scn1216"
+}
